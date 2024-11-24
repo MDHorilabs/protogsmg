@@ -1,3 +1,3 @@
-## protogsmg
+MDHorilabs / **protogsmg**
 
-## Protocols Group Messages
+# Protocols Group Messages
